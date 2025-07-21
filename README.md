@@ -9,15 +9,16 @@
 - [Code of conduct](#code-of-conduct)
 - [Team](#team)
 
-## How to use this guide
+## Hướng dẫn sử dụng
 
-### Duration
+### Thời lượng
 
 Khoảng 2 năm với 20 tiếng mỗi tuần, trung bình gần 3h/ngày.
 
-### Order of the classes
+### Thứ tự các lớp
 
-Some courses can be taken in parallel, while others must be taken sequentially. All of the courses within a topic should be taken in the order listed in the curriculum. The graph below demonstrates how topics should be ordered.
+
+Nhìn vào sơ đồ bên dưới, có các môn học song song được, có môn thì cần theo thứ tự
 
 <img src="./topic_progression_graph.jpg" width="300" alt="Topic Progression Graph" />
 
@@ -53,9 +54,18 @@ _Students who already know basic programming in any language can skip this first
 
 - [X] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
+(Các khóa học này mình hoàn toàn chỉ đọc đúng một cuốn sách vì mình đã học Khoa học máy tính từ trước rồi)
+
 ### Data Structures and Algorithms
 
-Tự bổ sung sau.
+Học [4 khóa của Tim Roughgarden](http://timroughgarden.org/videos.html), [2 khóa đầu](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V) and [2 khóa sau](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6). Tải học liệu của khóa trên Github bao gồm:
+
+- [Tài nguyên khóa học](https://github.com/AlessandroCorradini/Stanford-University-Algorithms-Design-and-Analysis)
+- [Danh sách các bài học](https://github.com/suhassrivats/Stanford-Data-Structures-and-Algorithms/blob/master/README.md)
+- [Problem Set and Programming Assignment Solutions](https://github.com/liuhh02/stanford-algorithms-specialization)
+
+Thì cá nhân mình thích trước khi học thì mình sẽ đi đọc trước nội dung các bài. Bạn có thể đọc [Hướng dẫn DSA trên Github](https://github.com/djeada/Algorithms-And-Data-Structures) cộng với [Lý thuyết](https://adamdjellouli.com/articles/algorithms_and_data_structures)
+
 ### Databases
 
 [Database Management Essentials](https://www.coursera.org/learn/database-management)
@@ -72,11 +82,7 @@ Tự bổ sung sau.
 
 ### Single Variable Calculus
 
-[Calculus 1A: Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
-
-[Calculus 1B: Integration](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.2x/)
-
-[Calculus 1C: Coordinate Systems & Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/)
+[18.01 Fall 2006: Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
 
 ### Linear Algebra
 
@@ -129,3 +135,5 @@ Chưa đến đoạn này
 (Đọc thêm các cuốn sách huyền cmn thoại về chủ đề này)
 
 ![keep learning](https://i.imgur.com/REQK0VU.jpg)
+
+[Tech Interview Handbook](https://www.techinterviewhandbook.org/)

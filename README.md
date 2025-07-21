@@ -82,7 +82,7 @@ Thì cá nhân mình thích trước khi học thì mình sẽ đi đọc trư�
 
 ### Single Variable Calculus
 
-[18.01 Fall 2006: Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+[18.01 Fall 2006: Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
 
 ### Linear Algebra
 
